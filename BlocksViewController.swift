@@ -155,7 +155,7 @@ class BlocksViewController:  RobotControlViewController, UICollectionViewDataSou
 //        }
   
         // Rewrote the way block names are changed when a function is renamed, the changes are in functionTableViewController rename function at the very bottom
-    
+        save()
     }
 
     
